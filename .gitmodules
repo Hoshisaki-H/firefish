@@ -1,0 +1,3 @@
+[submodule "packages/client/assets/koruri"]
+	path = packages/client/assets/koruri
+	url = https://github.com/koruri/koruri
